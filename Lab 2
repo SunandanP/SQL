@@ -38,3 +38,5 @@ alter table Person modify person_name varchar(20) not null;
 alter table Person modify reg_no varchar(5) not null;
 
 desc Orders;
+
+
